@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mis545g",
+  "private_key_id": "f44ed5de700dc0d67448e7269941b067e9446853",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChzZoGeww6TAtb\nMCqmfvVD5lqVRuBuwXgaCFSwSWCj7o9wzzCMFymJUI5qYKOup0DPx0GfiiQOvmYK\nAE2ix59mO+mrvTc+LMwf9uuOxFe3rqU46PMdVvSjiV0XNDVLLP5mzFvFkRutgEXp\nhcIBf1AA24dmjfnBsHMbTqbOoVp0q7u3k+D6Pe/zU9d5qXdfEsCsBiDBuA43db32\n2UDrw/VSsR0Si5a8LuzTwoS8ldMlhucwNaQ29rVdrfRt9sFm71ivdsEH4uaXv4W6\nU4eETf+IsySumjrorl6lCo3WztaJqg1OCzH31fPpcMRJu2AHCyIEPVarQrLg8Zn2\nzVZOiMG9AgMBAAECggEAFd0vs4bRaQKZRD9hfAcgLbEvy10npapnXXPZEcs7Oluv\nBAo99VLfQ4ALBo08K7UhGRKZUlgl4DIn8rEGIflsl4bVYBDHqWip7/sl6zBVPsEO\n8Cjrn9V+EFKBrZ7Z7BMj5hCLqXT0Hav9hn09xoWwHLWNed+0gKZPH5ZaDFuZsAsa\nUYBrI8qr4oIQXX43uh8CSQj48plh3fDvRHHNRq3yEB7boU/X7ZR9+ujQ60OXYRN6\nJtDO9u+v3IuT+p3fGpK0EhWg2nz++45mYD6tXj1lvmmF5kZCsu7oyv3LHalTaZJu\ndtUIlzGawoO6CzD+3aDiNlE18yFi0TpeN5krrSjwJwKBgQDXTajtTXWLlmKLNbhf\nwoSDAfsBsNMiCp7BmJf6UWSWmDP+4P/uGMJMdxQAb/oq95iEZE+gCR0TwEStKgCF\ni9ooxncqVIamKBbYHtMMdpuptQID3bju+lpt9lpGHGpI2VX9VC59E+EdSrNCkYtk\nxbVBLU9MjaJjA+JnFVe7LQTq9wKBgQDAYxzj6g2In1DP3D5MPMwrE0/yH1VoTeMF\nDvH8XAW014192moOdSaJ11Ph3Z4NWJQner3p3IO1qQxawgleeCSNWaKyO01euFcv\nX7NKvyR3pQIagWih9Xq3xW055HDAE9eV7joYMhLCS28eFlt3YWQ4k+GRXm6UAADQ\nZNF9e0Y36wKBgAmG8jat+smWef3W/rWeEecKK2VDwdP7zFKcwfzdpSnUylg49JpA\nljhz/HqYeeV011bkaXGXdaXuGBvhg+xk595uCc/htaOcmoYttwESLokv7UrmgMxy\nX5YGFLCNiVZ354oyM2xteMSnDY+giR6IcSDVNHEaw1jGTzpog11Q/Kq5AoGABzuy\nul7yY1CaGTaOoQ8oHfZ76v6Cl4lWH7qQHozXKhVwnGq50hFVgZk27icG6jmKWHGk\n8kX4LbxNWpww/fxGY4obM9hG8Gi93moas5S8KkNp8NUsueog0wf5M1QDaTVVxa1P\nQdmgGu37H4Z3qeVff0EQGgcS4T2eyjcAKVeZLEECgYEA0Iu8lgs8T1MLHwl+VOCv\nr9c8Ggqt0cWZH3cmREEFLou4CIH6gudVNVMstuU0xA/5mwnTMpiSd1Mb/VZskJXW\nVnHtTKdpgyKRJDKodn5xAeNyOlG5PjQvmFYqiLYUoCmWWfL8+sv06moUBqblyBSh\nyShHzf4RqVXHITO4ugY26FY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jupyter-googl-sheet@mis545g.iam.gserviceaccount.com",
+  "client_id": "111453394991974993623",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jupyter-googl-sheet%40mis545g.iam.gserviceaccount.com"
+}
